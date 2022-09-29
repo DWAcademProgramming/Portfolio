@@ -530,6 +530,9 @@ footer ul li a:hover {
 
 
 /* Goals Page*/
-
+.summarySection{
+  background: black;
+  opacity: .7;
+}
 
 /* Outside Page*/
